@@ -1,0 +1,99 @@
+{
+  "target": [
+    {
+      "name": "muscle bruise",
+      "rules": {
+        "1": "relative loss of muscle strength after immediate treatment",
+        "2": "intensive bloody runny",
+        "3": "increasing swelling during the first 24 hours of the injury",
+        "4": "changing color of the skin",
+        "5": "swelling",
+        "6": "hematoma around injury after 48 hours",
+        "7": "Local temperature change",
+        "8": "affected muscle can be moved with a simple movement",
+        "9": "injury occurred as a result of external shock"
+      }
+    },
+    {
+      "name": "muscle contraction",
+      "rules": {
+        "1": "relative loss of muscle strength after immediate treatment",
+        "2": "increasing swelling during the first 24 hours of the injury",
+        "3": "Simple continuous contraction of the affected muscle",
+        "4": "no changing color of the skin",
+        "5": "no swelling",
+        "6": "Continuous contraction can be seen and touched by hand",
+        "7": "affected muscle can not be moved",
+        "8": "injury occurred as a result of sudden violent muscle contraction to resist an external force the moment it occurs when the muscle is not prepared for that",
+        "9": "injury occurred as a result of involuntary contraction of the muscle so that it cannot be relaxed"
+      }
+    },
+    {
+      "name": "myositis",
+      "rules": {
+        "1": "stiffness on exertion",
+        "2": "muscle weakness and lack of flexibility",
+        "3": "symptoms increase when exposed to cold",
+        "4": "pain is when the doctor presses on the affected area the bones with the muscles that sprout from them",
+        "5": "no changing color of the skin",
+        "6": "quite muscle swelling",
+        "7": "affected muscle can be moved with a simple movement",
+        "8": "injury occurred as a result of chronic stress and tension on the small fibers that connect the muscle to the area of ​​bone associated with it"
+      }
+    },
+    {
+      "name": "muscle strain",
+      "rules": {
+        "1": "stiffness on exertion",
+        "2": "muscle weakness and lack of flexibility",
+        "3": "fatigue extreme exhaustion and a decrease in the level of physical abilities",
+        "4": "no changing color of the skin",
+        "5": "no swelling",
+        "6": "low level of neuromuscular compatibility",
+        "7": "affected muscle can not be moved",
+        "8": "injury occurred as a result of A decline in the player's efficiency and ability with a feeling of severe pain when performing muscular effort"
+      }
+    },
+    {
+      "name": "muscle cramps",
+      "rules": {
+        "1": "relative loss of muscle strength of the affected muscle",
+        "2": "simple bloody runny",
+        "3": "quite muscle swelling",
+        "4": "quite changing color of the skin",
+        "5": "affected muscle can be moved with a simple movement",
+        "6": "injury occurred as a result of excessive stretching of some fibers in the muscle"
+      }
+    },
+    {
+      "name": "partial muscle tear",
+      "rules": {
+        "1": "player cannot use the injured muscle and continue playing",
+        "2": "simple bloody runny",
+        "3": "feeling of pain in the form of a knife strike",
+        "4": "quite swelling increased gradually during the first 24 hours of the injury",
+        "5": "quite muscle swelling",
+        "6": "quite changing color of the skin",
+        "7": "simple gap or depression at the site of the injury",
+        "8": "Local temperature change",
+        "9": "affected muscle can be moved with a simple movement",
+        "10": "injury occurred as a result of excessive stretching of some fibers in the muscle",
+        "11": "injury occurred as a result of sudden violent muscle contraction to resist an external force the moment it occurs when the muscle is not prepared for that"
+      }
+    },
+    {
+      "name": "complete muscle tear",
+      "rules": {
+        "1": "player cannot use the injured muscle and continue playing",
+        "2": "simple bloody runny",
+        "3": "quite swelling increased gradually during the first 24 hours of the injury",
+        "4": "quite muscle swelling",
+        "5": "quite changing color of the skin",
+        "6": "gap or depression at the site of the injury",
+        "7": "Local temperature change",
+        "8": "affected muscle can not be moved",
+        "9": "injury occurred as a result of sudden violent muscle contraction to resist an external force the moment it occurs when the muscle is not prepared for that"
+      }
+    }
+  ]
+}
